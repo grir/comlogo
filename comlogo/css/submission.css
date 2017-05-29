@@ -1,0 +1,33 @@
+
+.row-data {
+    display: -webkit-box;
+    border: solid black 1px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+.row-data img, .row-data input, .row-data div{
+    position: relative;
+    margin: 10px;
+    display: inline-block;
+    font-size: medium;
+    white-space: pre;
+    padding: 10px;
+}
+
+.submission img {
+    border: solid black 1px;
+    width: 50%;
+}
+.comlogo label {
+    position: relative;
+    font-size: medium;
+    width: 150px;
+    text-align: right;
+}
+
+#code-log {
+    display: inline-block;
+    vertical-align: middle;
+}

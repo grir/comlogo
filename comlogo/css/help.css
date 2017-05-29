@@ -1,0 +1,13 @@
+.reff span {
+    display: block;
+    margin: 10px;
+    font-size: large;
+}
+
+.info .block {
+    margin: 10px;
+}
+
+.info h2 {
+    margin: 20px;
+}
